@@ -1,1 +1,2 @@
-# Docker
+#!/bin/bash
+echo "hello world"
